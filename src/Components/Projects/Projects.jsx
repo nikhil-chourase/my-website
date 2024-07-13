@@ -128,7 +128,7 @@ export const Projects = () => {
               </div>
               <div>
                 <a
-                  href="https://github.com/thatsyuviii/My-Portfolio"
+                  href="https://github.com/nikhil-chourase/my-website.git"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -137,7 +137,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://fortunetellerr.netlify.app/"
+                  href="https://master--nikhilchourase.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
