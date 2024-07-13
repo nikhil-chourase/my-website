@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# some basic info of the app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ![portfolio-website](https://github.com/user-attachments/assets/09f675f2-5c82-4a21-90f6-17daf5bc6556)
 
 
