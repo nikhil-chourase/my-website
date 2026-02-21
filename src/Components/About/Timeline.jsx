@@ -32,7 +32,37 @@ export const Timeline = () => {
         </h2>
         <VerticalTimeline lineColor={linecolor}>
         <VerticalTimelineElement
-            date={"jun 2023 - july 2024"}
+            date={"sept 2024 - present"}
+            contentStyle={{
+              boxShadow: `var(--shadow)`,
+              backgroundColor: `var(--clr-bg)`,
+              textAlign: "left",
+              color: `var(--clr-fg-alt)`
+            }}
+            contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
+            iconStyle={{
+              backgroundColor: `var(--clr-bg)`,
+              color: `var(--clr-primary)`
+            }}
+            icon={<WorkIcon />}
+          >
+            <h3
+              className="vertical-timeline-element-title"
+              data-aos="fade-right"
+            >
+              Software Engineer
+            </h3>
+            <h4
+              className="vertical-timeline-element-subtitle"
+              data-aos="fade-right"
+            >
+              ICICI Prudential
+            </h4>
+            <p data-aos="fade-right">
+            I build scalable mobile apps using clean architecture, BLoC, and secure REST APIs, manage deployments and CI/CD, and optimize performance and user experience. I’ve also enhanced key modules and improved onboarding and authentication flows in the iInvest IPru app.               </p>
+          </VerticalTimelineElement>  
+        <VerticalTimelineElement
+            date={"jun 2023 - aug 2024"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               backgroundColor: `var(--clr-bg)`,
